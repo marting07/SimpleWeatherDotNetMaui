@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWeatherDotNetMaui", "SimpleWeatherDotNetMaui\SimpleWeatherDotNetMaui.csproj", "{A7C5B837-2E5B-4A27-B028-1C0F3FFB170E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C5B837-2E5B-4A27-B028-1C0F3FFB170E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C5B837-2E5B-4A27-B028-1C0F3FFB170E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C5B837-2E5B-4A27-B028-1C0F3FFB170E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C5B837-2E5B-4A27-B028-1C0F3FFB170E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
